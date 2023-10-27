@@ -1,0 +1,20 @@
+﻿1-¿Qué significa CPU?
+Ninguna de las anteriores
+Central  unit processing
+Processing unit central
+Unit central processing
+2-¿Cuántas fases tiene el desarrollo del software?
+Análisis,diseño,codificación,pruebas,mantenimiento
+Codificación,mantenimiento,análisis,diseño,pruebas
+Correctivo,perfectivo,evolutivo,adaptativo,desarrollo
+Ninguna de las anteriores
+3-¿Cuántos modelos de desarrollo hay?
+Cascada,en V,prototipo,espiral
+Cascada,en V,espiral,curva
+Cascada,prototipo,Scrum,Kanban
+Ninguna de las anteriores
+4-¿Cuántos tipos hay según la forma en la que operan?
+Declarativo e Imperativo
+Declarativo,adaptativo e imperativo
+Correctivo y declarativo
+Perfectivo,adaptativo y evolutivo
